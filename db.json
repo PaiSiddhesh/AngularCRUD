@@ -1,0 +1,38 @@
+{
+  "noteList": [
+    {
+      "name": "Desh",
+      "category": "Computers",
+      "date": "2023-02-27T18:30:00.000Z",
+      "phone": 99999,
+      "comment": "Full Stack Developer Analyst",
+      "id": 3
+    },
+    {
+      "name": "Yash",
+      "category": "Science",
+      "date": "2023-02-26T18:30:00.000Z",
+      "phone": 88888,
+      "comment": "Science",
+      "id": 4
+    },
+    {
+      "name": "Vedh",
+      "category": "Electronics",
+      "date": "2023-02-26T18:30:00.000Z",
+      "phone": 7878,
+      "comment": "Electronics ENG",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
